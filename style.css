@@ -73,8 +73,8 @@ img {
 }
 .button {
     box-shadow: 5px 5px 0 #AC9277;
-  font-size: 1.375rem;
-  border-radius: 5px;
+  font-size: 4rem;
+  border-radius: 10%;
   padding: 18px 32px;
   color: #fff;
   background-color: #432;
@@ -102,8 +102,8 @@ img {
 }
 
 .carousel {
-  width: 320px;
-  height: 182px;
+  width: 640px;
+  height: 364px;
   display: flex; 
   overflow: hidden; 
   margin: 0 auto; 
